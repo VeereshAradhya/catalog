@@ -15,7 +15,7 @@ metadata:
     tekton.dev/platforms: "linux/amd64"
 spec:
   description: >-
-    Task to run Ansible playbooks using Ansible Runner
+    Task to run Ansible playbooks using Ansible Runner testing 1.7 now
 
   workspaces:
     - name: runner-dir
