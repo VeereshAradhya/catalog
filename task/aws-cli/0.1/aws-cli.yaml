@@ -12,7 +12,7 @@ metadata:
     tekton.dev/platforms: "linux/amd64"
 spec:
   description: >-
-    This task performs operations on Amazon Web Services resources using aws. Updating this as well
+    This task performs operations on Amazon Web Services resources using aws. Updating this as well. second edit
 
   workspaces:
     - name: source
