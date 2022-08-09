@@ -12,8 +12,11 @@ metadata:
 spec:
   description: >-
     This task performs curl operation to transfer data from internet.
+    just checking
 
   params:
+  - name: simple-param
+    type: string
   - name: url
     description: URL to curl'ed
     type: string
