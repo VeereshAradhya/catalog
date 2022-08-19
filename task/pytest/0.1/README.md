@@ -1,6 +1,6 @@
 # pytest
 
-The task provides test execution based on [pytest](https://pypi.org/project/pytest/) for Python. The used images are based on the official Docker Hub [Python images](https://hub.docker.com/_/python). The installation of the packages is performed via a `pip install`.
+The task provides test execution based on [pytest](https://pypi.org/project/pytest/) for Python. The used images are based on the official Docker Hub [Python images](https://hub.docker.com/_/python). The installation of the packages is performed via a `pip install`. Just checking
 
 **It is required that `pytest` is part of the requirements file for the task. If the module is not included a warning will be printed.**
 
